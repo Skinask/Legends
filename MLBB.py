@@ -4,8 +4,7 @@ import random
 # List of proxies
 proxies = [
     'http://proxy1:8080',
-    'http://proxy2:3333',
-   # Add more proxies here
+    # Add more proxies here
 ]
 
 def check_account(email, password):
